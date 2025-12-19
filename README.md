@@ -46,10 +46,10 @@ The dashboard is built using a star schema data model and follows Power BI best 
 ## 📷 Dashboard Screenshots
 
 ### Sales Performance Overview
-![Sales Overview](screenshots/sales_performance_overview.png)
+![Sales Overview](**screenshots/sales_performance_overview.png**)
 
 ### Customer & Product Insights
-![Customer Insights](screenshots/customer_product_insights.png)
+![Customer Insights](**screenshots/customer_product_insights.png**)
 
 ---
 

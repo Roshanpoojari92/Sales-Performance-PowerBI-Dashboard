@@ -45,11 +45,13 @@ The dashboard is built using a star schema data model and follows Power BI best 
 
 ## 📷 Dashboard Screenshots
 
+## 📸 Dashboard Screenshots
+
 ### Sales Performance Overview
-![Sales Overview]Sales Performance Overview Screenshot.jpg
+![Sales Overview]([screenshots/sales_overview.jpg](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Customer%20%26%20product%20Insights%20screenshots.jpg))
 
 ### Customer & Product Insights
-![Customer Insights](**Sales Performance Overview Screenshot.jpg**)
+![Customer Insights]([screenshots/customer_insights.jpg](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg))
 
 ---
 
@@ -102,11 +104,7 @@ This project features an interactive Power BI dashboard designed to analyze sale
 - Total Quantity
 - Average Discount
 
----
 
-## 📷 Dashboard Screenshots
-
-### Sales Performance Overview and ### Customer & Product Insights
 
 ([View Dashboard on GitHub]([https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg)))
 

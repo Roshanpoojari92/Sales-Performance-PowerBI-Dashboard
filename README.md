@@ -107,11 +107,11 @@ This project features an interactive Power BI dashboard designed to analyze sale
 ## 📷 Dashboard Screenshots
 
 ### Sales Performance Overview
-[View Dashboard on GitHub](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard)
+[View Dashboard on GitHub]([https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg))
 
 
 ### Customer & Product Insights
-![Customer Insights](Sales Performance Overview Screenshot.jpg)
+[View Dashboard on GitHub]([https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg))
 
 ---
 

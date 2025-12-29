@@ -1,7 +1,7 @@
 # 📊 Sales Performance Power BI Dashboard
 
 ## 📌 Project Overview
-This project features an interactive Power BI dashboard designed to analyze sales performance, profitability, customer behavior, and product insights. The dashboard utilizes a star schema data model and adheres to Power BI best practices.
+This project features an interactive Power BI dashboard designed to analyze sales performance, profitability, customer behavior, and product insights. The dashboard utilizes a star schema data model and adheres to best practices in Power BI.
 
 
 The dashboard is built using a star schema data model and follows Power BI best practices.
@@ -49,10 +49,10 @@ The dashboard is built using a star schema data model and follows Power BI best 
 ## 📸 Dashboard Screenshots
 
 ### Sales Performance Overview
-![Sales Overview]([screenshots/sales_overview.jpg](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Customer%20%26%20product%20Insights%20screenshots.jpg))
+![Sales Overview](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg)
 
 ### Customer & Product Insights
-![Customer Insights]([screenshots/customer_insights.jpg](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Sales%20Performance%20Overview%20Screenshot.jpg))
+![Customer Insights](https://github.com/Roshanpoojari92/Sales-Performance-PowerBI-Dashboard/blob/main/Customer%20%26%20product%20Insights%20screenshots.jpg)
 
 ---
 
